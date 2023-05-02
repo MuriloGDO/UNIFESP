@@ -17,7 +17,7 @@ palavras em um papel, e assim por diante. Mais detalhes serão fornecidos no exe
 abaixo.
 
 O jogo tem algumas restrições:
-![Figura 1](/UNIFESP/AED2/CountingRadixSort/Imagem/imagem.png)
+![Figura 1](/AED2/CountingRadixSort/Imagem/imagem.png)
 
 1. Cada palavra tem no máximo 20 caracteres.
 2. As palavras conterão apenas letras sem acento.  ̃É garantida a ausência de caracteres especiais (acentos, etc) e números.
