@@ -17,6 +17,7 @@ palavras em um papel, e assim por diante. Mais detalhes serão fornecidos no exe
 abaixo.
 
 O jogo tem algumas restrições:
+
 ![Figura 1](/AED2/CountingRadixSort/Imagem/imagem.png)
 
 1. Cada palavra tem no máximo 20 caracteres.
