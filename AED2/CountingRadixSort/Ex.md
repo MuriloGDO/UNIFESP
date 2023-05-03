@@ -62,4 +62,4 @@ Posteriormente, deve-se exibir um valor ”d” correspondente a quantidade de c
 
 Em seguida, para cada “dígito” i do Radix sort, imprima uma linha com os 27 valores do vetor C do Counting sort. Devem ser exibidas ”d” linhas no total.
 
-Finalizando, nas próximas M linhas, imprima as N palavras ordenadas, uma palavra a cada linha sem os caracteres adicionais (Obs: Nesta sub-lista ordenada as palavras não tem o sinal de ponto final exibido no fim, **mas incluem os espa ̧cos adicionados para completar o comprimento**).
+Finalizando, nas próximas M linhas, imprima as N palavras ordenadas, uma palavra a cada linha sem os caracteres adicionais (Obs: Nesta sub-lista ordenada as palavras não tem o sinal de ponto final exibido no fim, **mas incluem os espaços adicionados para completar o comprimento**).
